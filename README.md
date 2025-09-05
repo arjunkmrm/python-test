@@ -16,11 +16,12 @@ An MCP server built with Smithery.
 
 ## Development
 
-Your server code is in `src/hello_server/server.py`. Add your tools and resources there.
+Your server code is in `src/hello_server/server.py`. Add or update your server capabilities there.
 
 ## Testing
 
-Test interactively:
+Test interactively with the smithery playground:
+
    ```bash
    uv run playground
    ```
